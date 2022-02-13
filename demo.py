@@ -1,9 +1,7 @@
-print("Hi ashu")
-sum = 4+5
-print(sum)
-add = 4+4
-print("sum will be =")
-print(add)
-print("Everything which is going to happen will be great for me ")
-print("Maven_Build_Test")
-print("OK")
+num1 ={1,5,5,10,15,20,'ashu'}
+for item1 in num1:
+    print(item1)
+
+print(type(num1))
+num1.pop()
+print(num1)
