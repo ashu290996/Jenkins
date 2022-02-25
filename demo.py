@@ -11,3 +11,6 @@ for item1 in num2:
     print(item1)
     
 print(type(num2))
+num2.pop()
+print(num2)
+
